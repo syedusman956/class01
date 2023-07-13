@@ -1,0 +1,12 @@
+var Mountains=["Mount Everest ", " Kangchenjunga ", " lhotse " ," Denali" ];
+var Rivers=["Mississippi ", " Yellow River ", " Columbia ", " Indus River "];
+var countries=["Australia", "United States", "Canada", "Algeria"];
+var cities=["Karachi", "Lahore", "Islamabad", "Multan"];
+var languages=["English", "Urdu", "Hindi", "Japnese"];
+var foods=["Biryani", "B.B.Q", "Burgers", "Piza"];
+console.log(Mountains);
+console.log(Rivers);
+console.log(countries);
+console.log(cities);
+console.log(languages);
+console.log(foods);
